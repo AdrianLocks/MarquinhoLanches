@@ -1868,7 +1868,7 @@ p {
 }
 
 .btn-whatsapp {
-    position: relative;
+    position: absolute;
     outline: none;
     bottom: 2px;
     right: 1px;
