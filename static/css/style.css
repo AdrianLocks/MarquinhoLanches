@@ -1141,6 +1141,7 @@ p {
 }
 
 .testimonials-img img {
+    border-radius: 30px;
     position: absolute;
     top: 60px;
     right: 30px;
