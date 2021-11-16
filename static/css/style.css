@@ -1547,7 +1547,7 @@ p {
         padding: 8px 20px 20px;
     }
     .blog-img {
-        height: 240px;
+        height: 220px;
     }
     .newsletter-box-text {
         padding: 0;
@@ -1728,8 +1728,8 @@ p {
     }
     .book-table-img {
         top:30px;
-        min-height: 280px;
-        height: 30vh;
+        min-height: 180px;
+        height: 25vh;
     }
     .team-img {
         height: 430px;
